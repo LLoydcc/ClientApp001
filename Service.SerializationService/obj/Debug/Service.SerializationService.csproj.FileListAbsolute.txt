@@ -1,0 +1,9 @@
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\bin\Debug\Service.SerializationService.dll
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\bin\Debug\Service.SerializationService.pdb
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\bin\Debug\Business.Model.dll
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\bin\Debug\Business.Model.pdb
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\obj\Debug\Service.SerializationService.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\obj\Debug\Service.SerializationService.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\obj\Debug\Service.SerializationService.csproj.CopyComplete
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\obj\Debug\Service.SerializationService.dll
+C:\Users\Jan\source\repos\ClientApp001\Service.SerializationService\obj\Debug\Service.SerializationService.pdb

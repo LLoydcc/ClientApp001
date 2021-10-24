@@ -1,0 +1,13 @@
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Logic.Ui.dll
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Logic.Ui.pdb
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Business.Model.dll
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Service.SerializationService.dll
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Services.MessageBus.dll
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Business.Model.pdb
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Service.SerializationService.pdb
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\bin\Debug\Services.MessageBus.pdb
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\obj\Debug\Logic.Ui.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\obj\Debug\Logic.Ui.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\obj\Debug\Logic.Ui.csproj.CopyComplete
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\obj\Debug\Logic.Ui.dll
+C:\Users\Jan\source\repos\ClientApp001\Logic.Ui\obj\Debug\Logic.Ui.pdb

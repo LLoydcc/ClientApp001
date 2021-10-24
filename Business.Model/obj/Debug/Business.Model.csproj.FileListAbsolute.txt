@@ -1,0 +1,5 @@
+C:\Users\Jan\source\repos\ClientApp001\Business.Model\bin\Debug\Business.Model.dll
+C:\Users\Jan\source\repos\ClientApp001\Business.Model\bin\Debug\Business.Model.pdb
+C:\Users\Jan\source\repos\ClientApp001\Business.Model\obj\Debug\Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\ClientApp001\Business.Model\obj\Debug\Business.Model.dll
+C:\Users\Jan\source\repos\ClientApp001\Business.Model\obj\Debug\Business.Model.pdb
